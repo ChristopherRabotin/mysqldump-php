@@ -57,3 +57,7 @@ http://code.google.com/p/db-mysqldump/
 
 ### Todos
 - Replace public extend() with array_merge_recursive()
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ChristopherRabotin/mysqldump-php/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
